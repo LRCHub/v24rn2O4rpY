@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "One Love",
+  "base_artist": "嵐",
+  "createdAt": "2025-12-22T13:38:07.320398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Love",
+      "artist": "Carlene Carter",
+      "has_synced": true,
+      "path": "select/01_One_Love_Carlene_Carter.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Love (Album Version)",
+      "artist": "Carlene Carter",
+      "has_synced": true,
+      "path": "select/02_One_Love_(Album_Version)_Carlene_Carter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Love At A Time",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/03_One_Love_At_A_Time_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Love",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/04_One_Love_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Love Karma",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/05_One_Love_Karma_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Love",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/06_One_Love_Nas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Love (Remix)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/07_One_Love_(Remix)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Love",
+      "artist": "Nebu Kiniza",
+      "has_synced": false,
+      "path": "select/08_One_Love_Nebu_Kiniza.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Love",
+      "artist": "Sheena Easton",
+      "has_synced": true,
+      "path": "select/09_One_Love_Sheena_Easton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Love",
+      "artist": "Dr. Alban",
+      "has_synced": true,
+      "path": "select/10_One_Love_Dr._Alban.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Love (Remix)",
+      "artist": "Dr. Alban",
+      "has_synced": true,
+      "path": "select/11_One_Love_(Remix)_Dr._Alban.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Love Karma (Instrumental)",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/12_One_Love_Karma_(Instrumental)_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Love / People Get Ready",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/13_One_Love___People_Get_Ready_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One Love , People Get Ready",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/14_One_Love_,_People_Get_Ready_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Love",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_One_Love_嵐.txt"
+    }
+  ]
+}
